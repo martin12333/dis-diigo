@@ -1,0 +1,16 @@
+﻿//format:
+*  //Question 1
+*  //Question 2
+   * //Answer to both 1 and 2
+
+
+
+
+* Should I always trust doctors ?
+   * Not always, because of, for example, the Study 329 (Wikipedia) [1].
+
+
+
+
+________________
+[1] "Study 329 - Wikipedia." https://en.wikipedia.org/wiki/Study_329. Accessed 28 Oct. 2019.
